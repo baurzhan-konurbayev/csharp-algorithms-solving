@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace CountInversions
+namespace CountInversionsSolution
 {
     class Program
     {
